@@ -1,0 +1,26 @@
+[
+  {
+    "code": "SEAF",
+    "name": "SeaFood Special",
+    "image": "seafoods.jpg",
+    "speciality": "Fried Salmon Special",
+    "description": "SeaFood Special - Fried Salmon Special - I'm a product overview. Here you can write more information about your product. Buyers like to know what they're getting for their money.",
+    "category": "seafood"
+  },
+  {
+    "code": "DESS",
+    "name": "Sumptuous Desserts",
+    "image": "desserts.jpg",
+    "speciality": "Choco Ice Cream Sandwich",
+    "description": "Sumptuous Desserts - Choco Ice Cream Sandwich - I'm a product overview. Here you can write more information about your product. Buyers like to know what they're getting for their money.",
+    "category": "desserts"
+  },
+  {
+    "code": "BUFF",
+    "name": "Buffet",
+    "image": "buffet.jpg",
+    "speciality": "Mixed Buffet",
+    "description": "Buffet - Mixed Buffet - I'm a product overview. Here you can write more information about your product. Buyers like to know what they're getting for their money.",
+    "category": "buffet"
+  }
+]
